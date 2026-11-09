@@ -1,0 +1,14 @@
+{"intents": [
+ {"tag":"greeting","patterns":["hello","hi there","hey","good morning","good evening"],"responses":["Hello! How can I help you today?","Hi! What can I do for you?"]},
+ {"tag":"goodbye","patterns":["bye","goodbye","see you later","exit","quit"],"responses":["Goodbye! Have a great day.","See you soon!"]},
+ {"tag":"thanks","patterns":["thanks","thank you","thanks a lot","appreciate it"],"responses":["You're welcome!","Happy to help!"]},
+ {"tag":"hours","patterns":["what are your working hours","when are you open","opening time","business hours"],"responses":["We are open Monday to Saturday, 9 AM to 6 PM."]},
+ {"tag":"contact","patterns":["how can i contact support","customer care number","email address","contact details"],"responses":["Email support@example.com or call 1800-000-000."]},
+ {"tag":"order_status","patterns":["where is my order","track my order","order status","has my order shipped"],"responses":["Please share your order ID and I'll check the status.","You can track your order under My Orders."]},
+ {"tag":"refund","patterns":["i want a refund","how do i return a product","return policy","money back"],"responses":["Returns are accepted within 7 days. Refunds are processed in 5 business days."]},
+ {"tag":"payment","patterns":["what payment methods do you accept","can i pay by card","upi payment","cash on delivery"],"responses":["We accept cards, UPI, net banking and cash on delivery."]},
+ {"tag":"account","patterns":["i forgot my password","reset password","how to create an account","login problem"],"responses":["Use 'Forgot Password' on the login page to reset it. To sign up, click 'Create Account'."]},
+ {"tag":"shipping","patterns":["how long does delivery take","shipping charges","delivery time","do you deliver to my city"],"responses":["Delivery takes 3-5 business days. Shipping is free above Rs. 500."]},
+ {"tag":"human_agent","patterns":["talk to a human","connect me to an agent","i need a person","speak to support"],"responses":["Connecting you to a human agent. Please wait..."]},
+ {"tag":"bot_info","patterns":["who are you","what can you do","your name","help"],"responses":["I'm a support chatbot. Ask me about orders, refunds, payments, shipping or accounts."]}
+]}
