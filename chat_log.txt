@@ -1,0 +1,10 @@
+[2026-11-09T20:23:11] USER: Hi
+[2026-11-09T20:23:11] BOT(greeting): Hi! What can I do for you?
+[2026-11-09T20:23:37] USER: What is your name
+[2026-11-09T20:23:37] BOT(bot_info): I'm a support chatbot. Ask me about orders, refunds, payments, shipping or accounts.
+[2026-11-09T20:23:53] USER: Where is my order
+[2026-11-09T20:23:53] BOT(order_status): You can track your order under My Orders.
+[2026-11-09T20:23:56] USER: ok
+[2026-11-09T20:23:56] BOT(None): Sorry, I didn't understand that. Could you rephrase?
+[2026-11-09T20:48:34] USER: bye
+[2026-11-09T20:48:34] BOT(goodbye): Goodbye! Have a great day.
